@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shuvo Mohonto's Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #fff;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+        nav {
+            margin-top: 10px;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #0073e6;
+        }
+        .about {
+            padding: 20px;
+            background-color: #fff;
+            margin: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .about h2 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        .about p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #0073e6;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Shuvo Mohonto's Blog</h1>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Blog</a>
+            <a href="#">About Me</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>I am Shuvo Mohonto. I am a Photographer, Content Writer, and AI Anthesis. This blog is where I share my thoughts, work, and insights on photography, writing, and the evolving world of AI.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Shuvo Mohonto. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
